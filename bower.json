@@ -1,7 +1,7 @@
 {
-  "name": "data-topojson-us-states",
+  "name": "data-dist-topojson-us-states",
   "version": "2013.0.0",
-  "homepage": "https://github.com/data-dist/data-topojson-us-states.git",
+  "homepage": "https://github.com/data-dist/data-dist-topojson-us-states.git",
   "ignore": [
     ".jshintrc",
     "**/*.txt",
